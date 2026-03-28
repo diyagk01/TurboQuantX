@@ -89,7 +89,6 @@ turboquant_rag/
 ├── tests/                                  # Unit tests for core behavior
 │   ├── test_turboquant.py                  # Encode/decode, scoring signal, save/load
 │   └── test_factory.py                     # Factory helper checks
-├── rag_with_turboquant.py                  # End-to-end RAG demo/eval pipeline
 ├── benchmark/
 │   ├── export_benchmark_data.py            # Embedding export for offline benchmarking
 │   └── rust_turbo_quant_bench/             # Rust benchmarking workspace (experimental)
